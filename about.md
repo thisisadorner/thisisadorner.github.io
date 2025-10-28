@@ -1,0 +1,20 @@
+---
+layout: page
+title: About
+---
+
+## [YOUR ABOUT HEADLINE]
+
+[YOUR ABOUT CONTENT]
+
+### [SECTION HEADING]
+
+[SECTION CONTENT]
+
+### [ANOTHER SECTION]
+
+[MORE CONTENT]
+
+## Contact
+
+[YOUR CONTACT INFO OR REMOVE THIS SECTION]
